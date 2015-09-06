@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icon/new.png</file>
+    <file>icon/open.png</file>
+    <file>icon/save.png</file>
+    <file>icon/edit.png</file>
+    <file>icon/settings.png</file>
+    <file>icon/ok.png</file>
+    <file>icon/cancel.png</file>
+    <file>icon/color.png</file>
+    <file>icon/play.png</file>
+    <file>icon/stop.png</file>
+    <file>icon/fast.png</file>
+    <file>icon/zoom in.png</file>
+    <file>icon/zoom out.png</file>
+    <file>icon/map.png</file>
+    <file>icon/grid.png</file>
+    <file>icon/stat.png</file>
+    <file>mask/hex0solid.png</file>
+    <file>mask/hex1border.png</file>
+    <file>mask/hex1solid.png</file>
+    <file>mask/hex2border.png</file>
+    <file>mask/hex2solid.png</file>
+    <file>mask/hex3border.png</file>
+    <file>mask/hex3solid.png</file>
+    <file>mask/hex4border.png</file>
+    <file>mask/hex4solid.png</file>
+</qresource>
+</RCC>
+
